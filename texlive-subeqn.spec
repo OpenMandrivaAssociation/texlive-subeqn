@@ -6,7 +6,7 @@
 # catalog-version 2.0b
 Name:		texlive-subeqn
 Version:	2.0b
-Release:	8
+Release:	9
 Summary:	Package for subequation numbering
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/subeqn
