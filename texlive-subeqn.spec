@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Package for subequation numbering
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/subeqn
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/subeqn
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/subeqn.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/subeqn.doc.r%{version}.tar.xz
